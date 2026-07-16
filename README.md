@@ -32,3 +32,10 @@ git clone https://github.com/boikzdev/face-analysis-engine.git
 cd face-analysis-engine
 pip install -r requirements.txt
 python main.py
+```
+
+## 📺 Video Demo & Walkthrough
+
+[![Watch the Demo](https://img.youtube.com/vi/bGyzoEUiOII/maxresdefault.jpg)](https://youtu.be/bGyzoEUiOII)
+
+[👉 Watch the real-time face analysis demonstration on YouTube!](https://youtu.be/bGyzoEUiOII)
